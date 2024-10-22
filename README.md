@@ -17,5 +17,7 @@ The course covers the following at a high level, with simple code examples to ge
   - Slides: <a href="slides/2. NLP for me - Data Acquisition and Preprocessing.pdf">2. NLP for me - Data Acquisition and Preprocessing.pdf</a> 
   - Notebook: <a href="notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb">2. NLP for me - Data Acquisition and Preprocessing.ipynb</a>  
 - **Part 3 - Machine Learning and Sentiment Analysis**
+  - Slides: <a href="slides/3. NLP for me - Machine Learning & Sentiment Analysis.pdf">3. NLP for me - Machine Learning & Sentiment Analysis.pdff</a> 
+  - Notebook: <a href="notebooks/3. NLP for me - Machine Learning and Sentiment.ipynb">3. NLP for me - Machine Learning and Sentiment.ipynb</a>  
 - **Part 4 - Unsupervised Methods for NLP**
 - **Part 5 - Deep Learning for Natural Language**
