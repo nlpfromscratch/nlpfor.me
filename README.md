@@ -19,10 +19,13 @@ The course covers the following at a high level, with simple code examples to ge
   - Notebook: <a href="notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb">2. NLP for me - Data Acquisition and Preprocessing.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>
 - **Part 3 - Machine Learning and Sentiment Analysis**
-  - Slides: <a href="slides/3. NLP for me - Machine Learning & Sentiment Analysis.pdf">3. NLP for me - Machine Learning & Sentiment Analysis.pdff</a> 
+  - Slides: <a href="slides/3. NLP for me - Machine Learning & Sentiment Analysis.pdf">3. NLP for me - Machine Learning & Sentiment Analysis.pdf</a> 
   - Notebook: <a href="notebooks/3. NLP for me - Machine Learning and Sentiment.ipynb">3. NLP for me - Machine Learning and Sentiment.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/3. NLP for me - Machine Learning and Sentiment.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>  
 - **Part 4 - Unsupervised Methods for NLP**
+  - Slides: <a href="slides/4. NLP for me - Unsupervised Methods for Natural Language.pdf">4. NLP for me - Unsupervised Methods for Natural Language.pdf</a> 
+  - Notebook: <a href="notebooks/4. NLP for me - Unsupervised Methods for Natural Language.ipynb">4. NLP for me - Unsupervised Methods for Natural Language.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/4. NLP for me - Unsupervised Methods for Natural Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>  
 - **Part 5 - Deep Learning for Natural Language**
 - **Part 6 - Case Study in NLP**
 
