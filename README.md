@@ -27,6 +27,9 @@ The course covers the following at a high level, with simple code examples to ge
   - Notebook: <a href="notebooks/4. NLP for me - Unsupervised Methods for Natural Language.ipynb">4. NLP for me - Unsupervised Methods for Natural Language.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/4. NLP for me - Unsupervised Methods for Natural Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>  
 - **Part 5 - Deep Learning for Natural Language**
+  - Slides: <a href="slides/5. NLP for me - Deep Learning for Natural Language.pdf">5. NLP for me - Deep Learning for Natural Language.pdf</a> 
+  - Notebook: <a href="notebooks/5. NLP for me - Deep Learning for Natural Language.ipynb">5. NLP for me - Deep Learning for Natural Language.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/5. NLP for me - Deep Learning for Natural Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>  
 - **Part 6 - Case Study in NLP**
 
 ## Details 
