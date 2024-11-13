@@ -14,7 +14,7 @@ The course covers the following at a high level, with simple code examples to ge
   - Slides: <a href="slides/1. NLP for me - Introduction to NLP.pdf">1. NLP for me - Introduction to NLP.pdf</a> 
   - Notebook: <a href="notebooks/1. NLP for me - Intro to NLP and Python.ipynb">1. NLP for me - Intro to NLP and Python.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/1. NLP for me - Intro to NLP and Python.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>
-- **Part 2 - Data Acqusition and Processing** (October 14th, 2024)
+- **Part 2 - Data Acquisition and Processing** (October 14th, 2024)
   - Slides: <a href="slides/2. NLP for me - Data Acquisition and Preprocessing.pdf">2. NLP for me - Data Acquisition and Preprocessing.pdf</a> 
   - Notebook: <a href="notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb">2. NLP for me - Data Acquisition and Preprocessing.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>
@@ -36,7 +36,7 @@ The course covers the following at a high level, with simple code examples to ge
 
 ## Details 
 ### Course Overview:
-⌛ Duration: 5 Weeks, October-November 2024  
+⌛ Duration: 6 Weeks, October-November 2024  
 📅 Dates: Mondays 7-10 PM EST  
 🕒 Sessions: 6 Sessions, 3 Hours Each  
 💻 Format: Live Online, Interactive Sessions via Google Meet  
