@@ -31,7 +31,7 @@ The course covers the following at a high level, with simple code examples to ge
   - Notebook: <a href="notebooks/5. NLP for me - Deep Learning for Natural Language.ipynb">5. NLP for me - Deep Learning for Natural Language.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/5. NLP for me - Deep Learning for Natural Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>  
 - **Part 6 - Case Study in NLP**
-  - Notebook: <a href="notebooks/6. NLP for me - Case Study in NLP.ipynb">5. NLP for me - Deep Learning for Natural Language.ipynb</a>
+  - Notebook: <a href="notebooks/6. NLP for me - Case Study in NLP.ipynb">6. NLP for me - Case Study in NLP.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/6. NLP for me - Case Study in NLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></a>  
 
 ## Details 
