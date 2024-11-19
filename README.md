@@ -40,7 +40,7 @@ The course covers the following at a high level, with simple code examples to ge
 📅 Dates: Mondays 7-10 PM EST  
 🕒 Sessions: 6 Sessions, 3 Hours Each  
 💻 Format: Live Online, Interactive Sessions via Google Meet  
-💰 Pricing: Pay What You Can (PWYC)  
+💰 Pricing: [Pay What You Can (PWYC)](https://www.nlpfromscratch.com/pwyc)
 
 ### Why this course?
 - **Flexible Pricing**: Our PWYC model ensures that financial constraints don’t hold you back from learning.
@@ -73,6 +73,8 @@ Some experience with Python or another programming language is suggested. Famili
 At NLP from scratch, I believe that education should be accessible to everyone, regardless of their financial situation. That’s why I’m offering the course under a Pay What You Can (PWYC) model. You choose the amount you can comfortably afford, and pay based on what you feel the course was worth. There’s no minimum or maximum amount, and you can pay when you first sign up or after you’ve finished attending the course – the choice is up to you.
 
 Your contribution, however large or small, will allow me to continue to develop and offer more courses like this in the future, making education and upskilling into NLP accessible to all.
+
+[Pay What You Can 👆](https://www.nlpfromscratch.com/pwyc)
 
 ### I have other questions – what should I do?
 Take a look at the course materials. If you’re still not certain, you may connect with me [on LinkedIn](https://www.linkedin.com/in/mylesharrison/) to reach out to me with your question directly.
